@@ -16,11 +16,11 @@ It goes beyond basic setup by covering:
 ## 🏗️ Architecture
 
 ```text
-MASTER (172.16.16.175)
+MASTER (172.16.16.**1)
         │
         │  Binary Logs (binlog)
         ▼
-SLAVE  (172.16.16.179)
+SLAVE  (172.16.16.**2)
 ```
 
 ---
