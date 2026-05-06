@@ -15,14 +15,11 @@ It goes beyond basic setup by covering:
 
 ## 🏗️ Architecture
 
-```text
-MASTER (172.16.16.**1)
-        │
-        │  Binary Logs (binlog)
-        ▼
-SLAVE  (172.16.16.**2)
-```
+## 🏗️ Architecture
 
+![MySQL Replication Architecture](assets/architecture1.png)
+
+> Master–Slave replication using MySQL binary logs
 ---
 
 ## 🛠️ Tech Stack
