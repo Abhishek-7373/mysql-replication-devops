@@ -171,7 +171,8 @@ This project is ideal for:
 
 ## 👨‍💻 Author
 
-Hands-on DevOps learning project focused on real-world problem solving.
+Abhishek  
+DevOps Engineer | Cloud & Automation Enthusiast
 
 ---
 
