@@ -15,8 +15,6 @@ It goes beyond basic setup by covering:
 
 ## 🏗️ Architecture
 
-## 🏗️ Architecture
-
 ![MySQL Replication Architecture](assets/architecture1.png)
 
 > Master–Slave replication using MySQL binary logs
